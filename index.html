@@ -1,32 +1,23 @@
 <html>
-<head>
-
+  <head>
     <title>TO DO LIST</title>
-    <link rel="stylesheet" href="style.css">
-    
-</head>
+    <link rel="stylesheet" href="style.css" />
+  </head>
 
-<body>
+  <body>
     <div class="main">
-        <h1>TO-DO LIST</h1>
-
-        <form id="addForm">
-
-            <input type="text" placeholder="Type Here" id = "addItem">
-
-            <button id="submit" type="submit">ADD</button>
-
-        </form>
-
-        <div class="taskList">
-
-            <ul id="todoList">
-
-            </ul>
-            <button onclick="clearList()" id="clearList" style="display: none;">Clear</button>
-        </div>
+      <h1>TO-DO LIST</h1>
+      <form id="addForm">
+        <input type="text" placeholder="Type Here" id="addItem" autocomplete="off" />
+        <button id="submit" type="submit">ADD</button>
+      </form>
+      <div class="taskList">
+        <ul id="todoList"></ul>
+        <button onclick="clearList()" id="clearList" style="display: none">
+          Clear
+        </button>
+      </div>
     </div>
     <script src="script.js"></script>
-
-</body>
+  </body>
 </html>
