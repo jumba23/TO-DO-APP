@@ -31,14 +31,14 @@ ul.addEventListener("click", (e) => {
     li.remove();
   }
   if (ul.children.length === 0) {
-    clearButton.setAttribute("style", "display: none")
+    clearButton.setAttribute("style", "display: none");
   }
 });
 
 ul.addEventListener("mousedown", (e) => {
-    const todoText = e.target;
-    todoText.classList.toggle('line')
-    line.classList.toggle("line");
+  const todoText = e.target;
+  todoText.classList.toggle("line");
+  line.classList.toggle("line");
 });
 
 function clearList() {
