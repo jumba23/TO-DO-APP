@@ -14,13 +14,11 @@ With this app you can:
 
 <p align="center">
   <img 
-    width="550"
-    height="500"
+    width="500"
+    height="650"
     src="https://user-images.githubusercontent.com/80366503/157554340-5bd9008b-41d8-470c-93f5-ed38d8b13cde.gif"
   >
 </p>
-
-![To-Do app](https://user-images.githubusercontent.com/80366503/157554340-5bd9008b-41d8-470c-93f5-ed38d8b13cde.gif)
 
 # Author
 Goran Cvetic - Software Developer - [LinkedIn](https://www.linkedin.com/in/goran-cvetic-9aaa4288/)
