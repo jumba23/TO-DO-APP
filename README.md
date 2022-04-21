@@ -1,8 +1,7 @@
 # To-Do App
 This was my second application written using HTML, CSS, and JavaScript. This is a very simple version of To-Do app with few features. 
 
-Try it here 
-[To-Do app](https://jumba23.github.io/TO-DO-APP/)
+Try it - [here](https://jumba23.github.io/TO-DO-APP/)
 
 # About App
 With this app you can:
