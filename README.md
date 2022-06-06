@@ -20,4 +20,4 @@ With this app you can:
 </p>
 
 # Author
-Goran Cvetic - Software Developer - [LinkedIn](https://www.linkedin.com/in/goran-cvetic-9aaa4288/)
+Goran Cvetic - Software Developer - [LinkedIn](https://www.linkedin.com/in/goran-cvetic/)
